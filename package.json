@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "arweave": "^1.10.0"
+    "arweave": "^1.10.0",
+    "axios": "^0.21.1"
   }
 }
